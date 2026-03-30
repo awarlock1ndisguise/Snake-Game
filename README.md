@@ -1,7 +1,7 @@
 # Snake Game
 This project is a simple java-based game.
 # Description 
-Just like the Iconc Snake Game, this project follows the same logic. Once you hit "Start" the snake moves and you can start moving with the arrows or AWSD key on your keyboard, so you can eat and grow from the apples that respawn. **However** don't forget to pay attention becasue you might collide with yourself and that will be the **END** of your effort. But **DON'T WORRY** if you can make the snake grow for it to fill the whole grid, you wll have the chance to Win.
+Just like the Iconic Snake Game, this project follows the same logic. Once you hit "Start" the snake moves and you can start moving with the arrows or AWSD key on your keyboard, so you can eat and grow from the apples that respawn. **However** don't forget to pay attention becasue you might collide with yourself and that will be the **END** of your effort. But **DON'T WORRY** if you can make the snake grow for it to fill the whole grid, you wll have the chance to Win.
 # Usage
 Once you download my files, you can run them in VScode or any java compiler online (if they can give you access to the GUI).
 > [!NOTE]
